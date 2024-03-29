@@ -1,6 +1,6 @@
 # ATMS 523 Module-5
 
-Several machine learning techniques including a multiple linear regression, a polynomial regression, and a random forest regressor were used in this module. The main goal was to get more experience with machine learning and to try and predict rainfall rate from several different polarimetric radar parameters. Several error statistics were calculated to determine which model performed the best against a baseline model calculation using the formula $Z = 200 R^{1.6}$.
+Several machine learning techniques including a multiple linear regression, a polynomial regression, and a random forest regressor were used in this module. The main goal was to get more experience with machine learning and to try and predict rainfall rate from several different polarimetric radar parameters. Several error statistics were calculated to determine which model performed the best, including a baseline model calculation which used the formula $Z = 200 R^{1.6}$.
 
 ## Setting Up
 In order to complete this module in Python, the [`sklearn`](https://scikit-learn.org/stable/)) will be used. 
